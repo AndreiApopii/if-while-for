@@ -1,11 +1,11 @@
-a=int(input('Introduceti numarul a='))
-if a==28:
+n=int(input('Introduceti numarul n='))
+if n=28:
     print('Februarie')
-elif a==29:
+elif n=29:
     print('Februarie')
-elif a==30:
+elif n=30:
     print('Aprilie,Iunie,Septembrie,Noiembrie,')
-elif a==31:
+elif n=31:
     print('Decembrie,Martie,Mai,Iulie,August,Octombrie')
 else:
     print('nu sunt luni cu asa nr de zile')
